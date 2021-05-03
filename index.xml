@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guangke Chen</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guangke Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Guangke Chen</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Attack as Defense: Characterizing Adversarial Examples using Robustness</title>
+      <link>/publication/attack-as-defense/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/attack-as-defense/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BDD4BNN: A BDD-based Quantitative Analysis Framework for Binarized Neural Networks</title>
+      <link>/publication/bdd/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/bdd/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>Computer Security Paper Sharing 01 - S&amp;P 2021 FAKEBOB</title>
+      <link>/post-research/fakebob/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post-research/fakebob/</guid>
+      <description>&lt;p&gt;今天给大家推荐一篇前不久被第42届 IEEE Symposium on Security and Privacy (&lt;strong&gt;IEEE S&amp;amp;P, Oakland&lt;/strong&gt;) 2021会议接收的学术论文，关于说话人识别系统的黑盒对抗攻击。&lt;/p&gt;
+&lt;h1 id=&#34;前言&#34;&gt;前言&lt;/h1&gt;
+&lt;p&gt;IEEE Oakland会议是信息安全四大顶级会议之一（其他三个是ACM CCS, Usenix Security, NDSS），自1980年以来，一直是介绍计算机安全和隐私发展动态的旗舰会议。该会议2010-2019年论文平均接收率为&lt;strong&gt;12.6%&lt;/strong&gt;, 每年大陆学者在Oakland会议上发表论文数量不多。第42届Oakland会议将于2021年5月23日至27日在美国旧金山举办。&lt;/p&gt;
+&lt;p&gt;论文题目为 &lt;em&gt;&lt;strong&gt;Who is Real Bob? Adversarial Attacks on Speaker Recognition Systems&lt;/strong&gt;&lt;/em&gt;，来自
+&lt;a href=&#34;http://www.shanghaitech.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;上海科技大学&lt;/a&gt; 
+&lt;a href=&#34;http://faculty.sist.shanghaitech.edu.cn/faculty/songfu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;宋富教授&lt;/a&gt;的
+&lt;a href=&#34;http://s3l.shanghaitech.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;S3L (System and Software Security Lab) 课题组&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;paper-info.jpg&#34; alt=&#34;图1：论文信息&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;研究背景&#34;&gt;研究背景&lt;/h1&gt;
+&lt;p&gt;自2013年以来，针对机器学习模型特别是深度神经网络的对抗攻击研究受到了学术界和工业界的广泛关注，相关研究工作数量也井喷式增长。然而，相关工作大多集中在图像以及语音识别领域。说话人识别，即声纹识别，作为一种生物识别技术，应用日益广泛，与此同时其安全性不容忽视。&lt;/p&gt;
+&lt;p&gt;该论文的主要贡献是首次提出了对说话人识别系统的黑盒对抗攻击，称为FAKEBOB。FAKEBOB在开源和商用声纹识别系统（天聪智能）上均取得接近100%攻击成功率，并且能有效迁移到微软Azure声纹识别系统，包括API攻击以及实际场景下的over-the-air物理攻击。&lt;/p&gt;
+&lt;h1 id=&#34;攻击方法&#34;&gt;攻击方法&lt;/h1&gt;
+&lt;p&gt;以开集说话人辨认系统 (Open-set Identification, OSI) 为例，FAKEBOB的攻击示意如图2所示，其主要思想是迭代地在一段冒名顶替者的语音上加入人耳无法感知的扰动，生成对抗语音，从而使得系统将对抗语音识别为来自说话人组中的某个（指定的）说话人。基于声纹识别技术的应用场景，攻击者可以利用FAKEBOB进行手机声纹解锁，移动应用声纹登录甚至银行交易声纹验证等，从而对受害者的财产安全，声誉等造成危害。
+&lt;img src=&#34;attack.png&#34; alt=&#34;图2：FAKEBOB攻击示意图&#34;&gt;&lt;/p&gt;
+&lt;p&gt;FAKEBOB的框架如图3所示，对抗语音生成被建模为一个带约束 (Maximal distortion) 的优化问题，约束的存在保证添加的扰动不能被人耳感知。FAKEBOB的主要特点包括：&lt;/p&gt;
+&lt;p&gt;1）对三大不同的说话人识别任务，即开集说话人辨认，闭集说话人辨认 (Close-set Identification, CSI)，说话人确认 (Speaker Verification, SV) 均有效。FAKEBOB对不同任务采用了不同的损失函数，以适应不同说话人识别任务打分和决策的差异。&lt;/p&gt;
+&lt;p&gt;2）和图像识别不同，开集说话人辨认以及说话人确认的决策机制基于一个预设的阈值，只有对抗语音的得分超过阈值，攻击才能成功。但在黑盒攻击模型下，攻击者无法提前获得阈值。为了解决这个问题，该论文提出了阈值估计算法，实验结果显示，该算法能很好地估计实际阈值，即保证估计阈值大于实际阈值但两者差距很小。&lt;/p&gt;
+&lt;p&gt;3）与白盒攻击不同，FAKEBOB不要求攻击者知道系统的内部结构及参数，数据集等，只需要能够访问受害者的说话人模型（即提供输入语音，获取得分及决策结果）。这一黑盒攻击模型比白盒攻击模型更具现实性。根据调研，多数商用声纹识别系统满足黑盒模型。在黑盒攻击模型下，为了能够利用有效的梯度信息进行梯度下降解决上述优化问题，FAKEBOB使用了基于自然进化策略 (Natural Evolution Strategy, NES) 的梯度估计算法，已有文献显示基于自然进化策略的梯度估计算法比有限差分梯度估计算法更高效。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;archi.png&#34; alt=&#34;图3：FAKEBOB框架&#34;&gt;&lt;/p&gt;
+&lt;p&gt;如图4所示，FAKEBOB适用于多种不同的攻击场景&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;scene.png&#34; alt=&#34;图4：FAKEBOB攻击场景&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;实验结果&#34;&gt;实验结果&lt;/h1&gt;
+&lt;p&gt;1）在Kaldi开源说话人识别系统上，FAKEBOB取得接近100%的攻击成功率。此外FAKEBOB对商用的天聪智能声纹识别系统也取得了100%的攻击成功率，平均API调用次数为2500次。&lt;/p&gt;
+&lt;p&gt;2）对Decisions-only场景，FAKEBOB采用迁移攻击。实验显示，提高对抗语音的对抗强度 (Strength) 后，在开源系统之间，FAKEBOB最高能取得100%的攻击迁移成功率。此外，FAKEBOB产生的对抗语音能成功迁移到微软商用的Azure开集说话人辨认系统，针对性 (Targeted) 和非针对性 (Untargeted) 攻击迁移率分别达到26%和41%。&lt;/p&gt;
+&lt;p&gt;3）除了API攻击，FAKEBOB对over-the-air物理攻击同样有效。Over-the-air攻击相比API攻击的难点在于，对抗语音经过扬声器播放，空气信道传播，麦克风接收后，其中的扰动会丢失从而失去对抗性。该论文通过提高对抗语音的对抗强度解决这一问题。实验结果显示这一方案是有效的，对不同的硬件设备（扬声器和麦克风），不同距离（扬声器和麦克风的距离）以及不同声学环境（相对安静，存在高斯白噪声及其他典型生活场景噪声），FAKEBOB都能取得较好的攻击成功率。&lt;/p&gt;
+&lt;p&gt;4）为了衡量人耳对加入的扰动的感知度，该论文研究者在亚马逊MTurk平台上进行了两项问卷调查。第一项调查询问参与者是否听到语音中存在噪声，第二项调查询问参与者认为原始语音和对抗语音是否来自同一个说话人。如图5所示，尽管参与者对Over-the-air攻击语音的感知要比API攻击明显，但该结果和已有相似调查具有可比性。第二个调查结果显示，在人耳听起来是来自冒名顶替者的语音却能使得系统错误决策。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;human-study.jpg&#34; alt=&#34;图5：Human Study结果&#34;&gt;&lt;/p&gt;
+&lt;p&gt;5）最后，该论文还验证了FAKEBOB在若干个对抗语音防御或检测方法下的攻击效果。结果显示，对于下采样、中值滤波和比特量化这三种输入变换类的防御方法，通过产生强对抗性语音，FAKEBOB能够逃避这些防御方法，并且这三种方法在增加攻击开销或降低攻击成功率方面效果有限或无效；对于基于时序依赖性的对抗语音检测方法 (Temporal Dependency Detection)，由于FAKEBOB并没有改变语音的文本内容，保留了时序依赖性，因此该检测方法接近于随机猜测。&lt;/p&gt;
+&lt;h1 id=&#34;后记&#34;&gt;后记&lt;/h1&gt;
+&lt;p&gt;需要注意的是，针对说话人识别的安全威胁还有一类，称为欺骗攻击（Spoofing Attack）。欺骗攻击通过录制或语音合成等方法获取某段语音，该语音人耳听起来像受害者发出，自然地就能被系统识别为来自受害者；而对抗攻击利用的是系统的漏洞，尽管生成的语音人耳听起来根本不像受害者发出，但系统仍然做出错误决策。对抗攻击相比欺骗攻击的优势在于，当有熟悉受害者声音的人（包括受害者自身）在场时，对抗攻击相比欺骗攻击更加隐蔽。&lt;/p&gt;
+&lt;p&gt;如果你想深入了解这项工作，可以参考以下资料：&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://arxiv.org/pdf/1911.01840.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;论文PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sites.google.com/view/fakebob/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FAKEBOB项目主页，需科学上网&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/FAKEBOB-adversarial-attack/FAKEBOB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FAKEBOB Github开源代码&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitee.com/golferchen/FAKEBOB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FAKEBOB Gitee开源代码&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最后，欢迎关注 &lt;strong&gt;上科大系统与软件安全实验室S3L&lt;/strong&gt; 微信公众号，更多信息安全方面的前沿动态，等你一起发掘！课题组也持续招收研究生、博后、研究员、实习及访问学生。
+&lt;img src=&#34;S3L.png&#34; alt=&#34;上科大系统与软件安全实验室S3L&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Who is Real Bob? Adversarial Attacks on Speaker Recognition Systems</title>
+      <link>/publication/sp2021-fakebob/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sp2021-fakebob/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing technical content in Academic</title>
+      <link>/post-backup/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post-backup/writing-technical-content/</guid>
+      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$\gamma_{n} = \frac{ 
+\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
+\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
+{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\\\&lt;/code&gt; math linebreak:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\\\
+1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\&lt;br&gt;
+1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
+&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+  int id
+  size()
+}
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+  int id
+  size()
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
+&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Represent your data in tables:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;First Header&lt;/th&gt;
+&lt;th&gt;Second Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
+&lt;p&gt;Academic supports a 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for asides&lt;/a&gt;, also referred to as &lt;em&gt;notices&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% alert note %}} ... {{% /alert %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% alert note %}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% /alert %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
+&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; spoiler text=&amp;quot;Click to view the spoiler&amp;quot; &amp;gt;}}
+You found me!
+{{&amp;lt; /spoiler &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;spoiler &#34; &gt;
+  &lt;p&gt;
+    &lt;a class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; href=&#34;#spoiler-1&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;spoiler-1&#34;&gt;
+      Click to view the spoiler
+    &lt;/a&gt;
+  &lt;/p&gt;
+  &lt;div class=&#34;collapse card &#34; id=&#34;spoiler-1&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+      You found me!
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;p&gt;Academic enables you to use a wide range of 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; icon name=&amp;quot;terminal&amp;quot; pack=&amp;quot;fas&amp;quot; &amp;gt;}} Terminal  
+{{&amp;lt; icon name=&amp;quot;python&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} Python  
+{{&amp;lt; icon name=&amp;quot;r-project&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} R
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>/publication-backup/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication-backup/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>/post-backup/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post-backup/jupyter/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Edit the metadata of your post, using the 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+&lt;p&gt;To set a 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+&lt;p&gt;For other tips, such as using math, see the guide on 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt; 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three 
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>卷积深度置信网络工具箱的使用---人脸识别</title>
+      <link>/post-tech/conv-dbn/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/post-tech/conv-dbn/</guid>
+      <description>&lt;p&gt;本文主要以ORL_64x64人脸数据库识别为例，介绍如何使用&lt;strong&gt;基于matlab的CDBN工具箱&lt;/strong&gt;。至于卷积深度置信网络（CDBN，Convolutional Deep Belief  Network）的理论知识，只给出笔者整理的一些学习资源。&lt;/p&gt;
+&lt;h1 id=&#34;卷积深度置信网络理论知识&#34;&gt;卷积深度置信网络理论知识&lt;/h1&gt;
+&lt;p&gt;参考以下学习资料&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://blog.csdn.net/itplus/article/details/19168937&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSDN博客&amp;mdash;受限玻尔兹曼机（RBM）学习笔记&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://blog.csdn.net/losteng/article/details/51001247&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSDN博客&amp;mdash;深度信念网络(Deep Belief Network)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.zhihu.com/question/39022858&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;知乎&amp;mdash;卷积神经网络工作原理直观的解释&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://mp.weixin.qq.com/s/47G744L87geyBIjxeSeoqQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;量子位公众号&amp;mdash;一文了解各种卷积结构原理及优劣&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&amp;amp;dbname=CMFD201601&amp;amp;filename=1015987604.nh&amp;amp;v=MTgzODg3RGgxVDNxVHJXTTFGckNVUkwyZmIrZG1GQ3ZrVUwvTFZGMjZHN3F3R2RmTXE1RWJQSVI4ZVgxTHV4WVM=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;中国知网博硕论文&amp;mdash;基于卷积深度置信网络的歌手识别&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://ai.stanford.edu/~ang/papers/icml09-ConvolutionalDeepBeliefNetworks.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDBN paper（全英）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;cdbn工具箱简介&#34;&gt;CDBN工具箱简介&lt;/h1&gt;
+&lt;p&gt;据笔者了解，目前，比较流行的深度学习框架，如TensorFlow、DeepLearning4j等不支持CDBN。GitHub上有基于Matlab的CDBN工具箱：
+&lt;a href=&#34;https://github.com/lonl/CDBN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDBN工具箱下载链接&lt;/a&gt; 
+下面简要介绍该工具箱。
+从GitHub上下载的压缩包解压后再打开，文件目录如下：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig-3.png&#34; alt=&#34;CDBN工具箱的文件目录&#34;&gt;
+其中，最为重要的肯定是toolbox。toolbox里面有三个lib,分别是&lt;strong&gt;CDBN，DBN，Softmax库&lt;/strong&gt;。本文将用到CDBN和Softmax两个库。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig-2.png&#34; alt=&#34;toolbox下的三个lib&#34;&gt;
+需要注意的是，由于这个工具箱&lt;strong&gt;不是官方版的，因此可能存在某些bug&lt;/strong&gt;，后面会涉及到笔者使用工具箱过程中的一些经验。&lt;/p&gt;
+&lt;h1 id=&#34;神经网络结构&#34;&gt;神经网络结构&lt;/h1&gt;
+&lt;p&gt;介绍一下本文搭建的进行人脸识别的卷积深度置信网络的结构。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;主体结构：两个卷积受限玻尔兹曼机（CRBM，Convolutional Restricted Boltzmann Machine）堆叠（每个CRBM后都接有池化层），顶层采用Softmax，实现分类。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;第一个CRBM：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;fig-1.png&#34; alt=&#34;第一个CRBM参数&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第二个CRBM：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;fig0.png&#34; alt=&#34;第二个CRBM参数&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Softmax层
+神经元个数40个，最大迭代次数maxIter=1000，代价函数为交叉熵代价函数（Cross-Entropy Error）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;其他参数
+其他诸如学习速率等的参数使用CDBN-master\toolbox\CDBNLIB\default_layer2D.m中的默认值。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;编程&#34;&gt;编程&lt;/h1&gt;
+&lt;p&gt;以下讲解编程步骤。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;步骤一：安装工具箱
+只需运行setup_toolbox.m即可。
+安装工具箱其实只是&lt;strong&gt;把用到的一些函数添加到matlab的搜索路径&lt;/strong&gt;，因此你完全可以把工具箱内所有的文件都复制到你当前的路径下，不过肯定麻烦啦！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;步骤二：加载和矩阵化数据&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;    %load data
+    dataFortrain=load(&#39;ORL_64x64\StTrainFile1.txt&#39;);%注意修改路径
+    train_data=dataFortrain(:,1:end-1)&#39;;%训练样本
+    train_data=reshape(train_data,[64,64,1,360]);%矩阵化训练样本
+    trainL=dataFortrain(:,end);%训练样本标签
+    dataFortest=load(&#39;ORL_64x64\StTestFile1.txt&#39;);%注意修改路径
+    test_data=dataFortest(:,1:end-1)&#39;;%测试样本
+    test_data=reshape(test_data,[64,64,1,40]);%注意修改路径
+    testL=dataFortest(:,end);%测试样本标签
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;重点讲一下第四行。
+StTrainFile1.txt中有360行，4097列。每一行是一幅人脸图像（像素为64X64=4096）的4096个灰度值，最后一列是该幅人脸图像的标签（1-40），表明其属于哪个人的（共40人，即分类数目为40）。由此可见，&lt;strong&gt;一幅二维图像（矩阵）被拉成了向量进行存储，因此在数据输入CDBN前，我们要对向量进行矩阵化&lt;/strong&gt;，调用matlab的reshape方法，最终生成一个4维的矩阵，四个维度分别是64,64,1,360（样本数）。倒数第二行同理。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;步骤三：定义层参数
+工具箱把一层layer定义为一个struct对象。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;    %INITIALIZE THE PARAMETERS OF THE NETWORK 
+    %first layer setting
+    layer{1} = default_layer2D();
+    layer{1}.inputdata=train_data;%输入训练样本
+    layer{1}.n_map_v=1;
+    layer{1}.n_map_h=9;
+    layer{1}.s_filter=[7 7];
+    layer{1}.stride=[1 1];
+    layer{1}.s_pool=[2 2];
+     layer{1}.batchsize=90;
+    layer{1}.n_epoch=1;
+------------------------------------------------------------------------------------------------------------------------
+
+    %second layer setting
+    layer{2} = default_layer2D();
+    layer{2}.n_map_v=9;
+    layer{2}.n_map_h=16;
+    layer{2}.s_filter=[5 5];
+    layer{2}.stride=[1 1];
+    layer{2}.s_pool=[2 2];
+    layer{2}.batchsize=10;
+    layer{2}.n_epoch=1;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;需要注意的是，**layer{i}=default_layer2D()这条语句是必须的，且必须位于所有层参数定义语句的最前面。**原因：如果layer{i}=default_layer2D()这条语句不位于最前面的话，在这条语句前面的参数赋值语句实质不起作用，这些参数还是取默认值。特别是对于第一层，因为default_layer2D()方法中是没有定义inputdata字段的，如果layer{1}.inputdata=train_data这条语句位于layer{1}=default_layer2D()前面，则会出现“使用未定义字段”的错误。
+补充：要注意根据自己使用的数据集的情况设定层的输入类型，对[0,1]之间的数据集，应该使用二值神经网络，设定   layer{i}.type_input     = &amp;lsquo;Binary&amp;rsquo;(程序默认);其他数据集，应该设为layer{i}.type_input     = &amp;lsquo;Gaussian&amp;rsquo;;至于二者的区别，自行百度，这里不展开了。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;步骤四：训练CDBN网络
+这个过程是无监督学习，只需调用cdbn2D方法即可。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在调用cdbn2D方法之前，CDBN-master\toolbox\CDBNLIB\mex中的crbm_forward2D_batch_mex.c要先用mex命令编译生成crbm_forward2D_batch_mex.mexw64文件才能供matlab调用&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mex crbm_forward2D_batch_mex.c
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;在编译前，crbm_forward2D_batch_mex.c要先修改：128行的out_id要改成在最开始的位置定义，否则编译时会出现“缺少：在类型前面’”的报错信息（PS:第一次遇到这么奇葩的报错，当时怀疑C语言是不是白学了），原因：VS2010的C编译器只支持C89标准，对C99标准支持不完全，而在C89标准中，变量需要放到函数体的前面声明，先声明再使用。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;%% ----------- GO TO 2D CONVOLUTIONAL DEEP BELIEF NETWORKS ------------------%% 
+tic;
+[model,layer] = cdbn2D(layer);
+save(&#39;model_parameter&#39;,&#39;model&#39;,&#39;layer&#39;);
+toc;
+trainD  = model{1}.output;%训练样本的第一个CRBM的输出，是一个4维矩阵
+trainD1 = model{2}.output;%训练样本的第二个CRBM的输出，是一个4维矩阵
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我们来比较一下train_data、trainD、trainD1的大小&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig1.png&#34; alt=&#34;train_data、trainD、trainD1&#34;&gt;
+现在再看看卷积神经网络的图示，是不是很好理解了呢？&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig2.png&#34; alt=&#34;卷积神经网络图示&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;步骤五：将测试样本输入训练好的CDBN网络，提取高维特征&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这段代码可以直接copy，修改好变量名即可！&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;%% ------------ TESTDATA FORWARD MODEL WITH THE PARAMETERS ------------------ %%
+% FORWARD MODEL OF NETWORKS
+H = length(layer);
+layer{1}.inputdata = test_data;
+fprintf(&#39;output the testdata features:&amp;gt;&amp;gt;...\n&#39;);
+tic;
+if H &amp;gt;= 2
+% PREPROCESSS INPUTDATA TO BE SUITABLE FOR TRAIN 
+layer{1} = preprocess_train_data2D(layer{1});
+model{1}.output = crbm_forward2D_batch_mex(model{1},layer{1},layer{1}.inputdata);
+
+for i = 2:H
+    layer{i}.inputdata = model{i-1}.output;
+    layer{i} = preprocess_train_data2D(layer{i});
+    model{i}.output = crbm_forward2D_batch_mex(model{i},layer{i},layer{i}.inputdata);
+end
+
+else
+
+layer{1} = preprocess_train_data2D(layer{1});
+model{1}.output = crbm_forward2D_batch_mex(model{1},layer{1},layer{1}.inputdata);
+end
+
+testD  = model{1}.output;%训练样本的第一个CRBM的输出，是一个4维矩阵
+testD1 = model{2}.output;%训练样本的第二个CRBM的输出，是一个4维矩阵
+toc;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;同样的，我们来看一下test_data、testD、testD1的大小：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig3.png&#34; alt=&#34;test_data、testD、testD1的大小比较&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;步骤六：训练Softmax分类器，同时进行识别
+这里我们用到 softmaxExercise(inputData,labels,inputData_t,labels_t)这个函数
+参数说明：
+**- inputdata:**训练样本的CDBN输出，要求是二维矩阵
+**-labels:**训练样本的标签
+**-inputData_t:**测试样本的CDBN输出，要求是二维矩阵
+**-labels_t:**测试样本的标签
+由于CDBN的输出是4维矩阵，因此在训练Softmax分类器前，需要把矩阵拉成向量（和之前的过程相反）。代码如下，可直接copy，修改变量名即可！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;    %% ------------------------------- Softmax ---------------------------------- %%
+
+    fprintf(&#39;train the softmax:&amp;gt;&amp;gt;...\n&#39;);
+
+    tic;
+
+    % TRANSLATE THE OUTPUT TO ONE VECTOR
+    trainDa = [];
+    trainLa=trainL;
+    for i= 1:size(trainD,4)
+    a1 = [];
+    a2 = [];
+    a3 = [];
+    for j = 1:size(trainD,3)
+        a1 = [a1;reshape(trainD(:,:,j,i),size(trainD,2)*size(trainD,1),1)];
+    end
+    
+    for j = 1:size(trainD1,3)
+        a2 = [a2;reshape(trainD1(:,:,j,i),size(trainD1,2)*size(trainD1,1),1)];
+    end
+    a3 = [a3;a1;a2];
+    trainDa = [trainDa,a3];
+    end
+
+    testDa = [];
+    testLa=testL;
+    for i= 1:size(testD,4)
+    b1 = [];
+    b2 = [];
+    b3 = [];
+    for j = 1:size(testD,3)
+        b1 = [b1;reshape(testD(:,:,j,i),size(testD,2)*size(testD,1),1)];
+    end
+    
+    for j =1:size(testD1,3)
+        b2 = [b2;reshape(testD1(:,:,j,i),size(testD1,2)*size(testD1,1),1)];
+    end
+    b3 = [b3;b1;b2];
+    testDa = [testDa,b3];
+    end
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我们来看一下拉成向量后的trainDa以及testDa的大小&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig4.png&#34; alt=&#34;拉成向量后的trainDa以及testDa的大小&#34;&gt;&lt;/p&gt;
+&lt;p&gt;对比一下，train_data和test_data在矩阵化之前的大小：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig5.png&#34; alt=&#34;train_data和test_data在矩阵化之前的大小&#34;&gt;&lt;/p&gt;
+&lt;p&gt;可见，CDBN作为特征提取器，将4096维特征映射到了9873维特征，提高了Softmax的分类能力！&lt;/p&gt;
+&lt;p&gt;softmaxExercise.m中有这样一段注释：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig6.png&#34; alt=&#34;softmaxExercise.m中的注释&#34;&gt;
+因此在调用softmaxExercise方法前，要做以下4个工作：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修改softmaxExercise.m第22行的numClasses，如本文改为40&lt;/li&gt;
+&lt;li&gt;修改softmaxExercise.m第96行的maxIter，本文取1000&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;PS:个人觉得softmaxExercise方法应该增加两个入口参数，即numClasses和maxIter，如此才能更好体现封装的思想。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;softmaxCost.m中定义需要的损失函数，只需要改第90行&lt;/p&gt;
+&lt;p&gt;cost = -(1. / numCases) * sum(sum(groundTruth .* log(p))) + (lambda / 2.) * sum(sum(theta.^2));
+这条语句即可，原文件使用的是交叉熵代价函数。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;有必要的话可以修改 softmaxPredict.m中内容，个人觉得完全没必要，保留即可。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;最后调用softmaxExercise方法&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;softmaxExercise(trainDa,trainLa,testDa,testLa);
+toc;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;完整代码&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre&gt;&lt;code&gt;FaceRecognitionDemo.m
+
+clear;
+%load data
+dataFortrain=load(&#39;ORL_64x64\StTrainFile1.txt&#39;);
+train_data=dataFortrain(:,1:end-1)&#39;;
+train_data=reshape(train_data,[64,64,1,360]);
+trainL=dataFortrain(:,end);
+dataFortest=load(&#39;ORL_64x64\StTestFile1.txt&#39;);
+test_data=dataFortest(:,1:end-1)&#39;;
+test_data=reshape(test_data,[64,64,1,40]);
+testL=dataFortest(:,end);
+%INITIALIZE THE PARAMETERS OF THE NETWORK 
+%first layer setting
+layer{1} = default_layer2D();
+layer{1}.inputdata=train_data;
+layer{1}.n_map_v=1;
+layer{1}.n_map_h=9;
+layer{1}.s_filter=[7 7];
+layer{1}.stride=[1 1];
+layer{1}.s_pool=[2 2];
+layer{1}.batchsize=90;
+layer{1}.n_epoch=1;
+%second layer setting
+layer{2} = default_layer2D();
+layer{2}.n_map_v=9;
+layer{2}.n_map_h=16;
+ layer{2}.s_filter=[5 5];
+layer{2}.stride=[1 1];
+layer{2}.s_pool=[2 2];
+layer{2}.batchsize=10;
+layer{2}.n_epoch=1;
+%% ----------- GO TO 2D CONVOLUTIONAL DEEP BELIEF NETWORKS ------------------     %% 
+tic;
+
+[model,layer] = cdbn2D(layer);
+save(&#39;model_parameter&#39;,&#39;model&#39;,&#39;layer&#39;);
+
+toc;
+
+trainD  = model{1}.output;
+trainD1 = model{2}.output;
+%% ------------ TESTDATA FORWARD MODEL WITH THE PARAMETERS ------------------ %%
+% FORWARD MODEL OF NETWORKS
+H = length(layer);
+layer{1}.inputdata = test_data;
+fprintf(&#39;output the testdata features:&amp;gt;&amp;gt;...\n&#39;);
+
+tic;
+if H &amp;gt;= 2
+
+ % PREPROCESSS INPUTDATA TO BE SUITABLE FOR TRAIN 
+layer{1} = preprocess_train_data2D(layer{1});
+model{1}.output = crbm_forward2D_batch_mex(model{1},layer{1},layer{1}.inputdata);
+
+for i = 2:H
+    layer{i}.inputdata = model{i-1}.output;
+    layer{i} = preprocess_train_data2D(layer{i});
+    model{i}.output = crbm_forward2D_batch_mex(model{i},layer{i},layer{i}.inputdata);
+end
+
+else
+
+layer{1} = preprocess_train_data2D(layer{1});
+model{1}.output = crbm_forward2D_batch_mex(model{1},layer{1},layer{1}.inputdata);
+end
+
+testD  = model{1}.output;
+testD1 = model{2}.output;
+toc;
+%% ------------------------------- Softmax ---------------------------------- %%
+
+fprintf(&#39;train the softmax:&amp;gt;&amp;gt;...\n&#39;);
+
+tic;
+
+% TRANSLATE THE OUTPUT TO ONE VECTOR
+trainDa = [];
+trainLa=trainL;
+for i= 1:size(trainD,4)
+a1 = [];
+a2 = [];
+a3 = [];
+for j = 1:size(trainD,3)
+    a1 = [a1;reshape(trainD(:,:,j,i),size(trainD,2)*size(trainD,1),1)];
+end
+
+for j = 1:size(trainD1,3)
+    a2 = [a2;reshape(trainD1(:,:,j,i),size(trainD1,2)*size(trainD1,1),1)];
+end
+a3 = [a3;a1;a2];
+trainDa = [trainDa,a3];
+end
+
+testDa = [];
+testLa=testL;
+for i= 1:size(testD,4)
+b1 = [];
+b2 = [];
+b3 = [];
+for j = 1:size(testD,3)
+    b1 = [b1;reshape(testD(:,:,j,i),size(testD,2)*size(testD,1),1)];
+end
+
+for j =1:size(testD1,3)
+    b2 = [b2;reshape(testD1(:,:,j,i),size(testD1,2)*size(testD1,1),1)];
+end
+b3 = [b3;b1;b2];
+testDa = [testDa,b3];
+end
+softmaxExercise(trainDa,trainLa,testDa,testLa);
+toc;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;运行截图及准确率&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;fig7.png&#34; alt=&#34;运行截图1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig8.png&#34; alt=&#34;运行截图2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig9.png&#34; alt=&#34;运行截图3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;97.5%的识别率，还是可以接受的，一方面是数据集好，另一方面是搭建得网络好。
+读者可以试一试调整CDBN网络的参数，比如增大epoch（本文取1），看能否获得更高的识别率。
+为了方便读者研究，附上所有文件。&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://pan.baidu.com/s/1EcPeWEPbrHwiG8u6ICqapQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;本Demo文件汇总下载链接（原链接失效，此为新版连接）,提取码：7f6i&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;以下是使用此工具箱的几点提示：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;原始工具箱只在LINUX系统测试过，由于LINUX系统和WINDOWS系统的文件分隔符不同，
+因此DemoCDBN_Binary_2D.m的第83行、
+cdbn2D.m的第15、24行、 setup_toolbox.m的文件分隔符要修改。&lt;/li&gt;
+&lt;li&gt;源程序存在bug，即若样本个数不是batchsize的整数倍的话，会出错，因此在此bug排除前，应将batchsize设置为样本数目的因数&lt;/li&gt;
+&lt;li&gt;类别标签不要用负数或0，比如进行二分类，标签不要设为-1和1，可以设为1和2，这是因为softmaxCost.m文件中的第18行建立稀疏矩阵时会以标签作为矩阵的索引，如果设为0或负数，肯定会报错：矩阵索引必须为正数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- # **over，接触机器学习时间不是很长，文章有什么错误，欢迎留言指正，谢谢！** --&gt;</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website builder for Hugo</title>
+      <link>/post-backup/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post-backup/getting-started/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
+&lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 
+&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 
+&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: 
+&lt;a href=&#34;https://twitter.com/source_themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@source_themes&lt;/a&gt; 
+&lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; 
+&lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
+&lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;ul&gt;
+&lt;li&gt;☕️ 
+&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💵 
+&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🖼️ 
+&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👕 
+&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👩‍💻 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-academic-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
+
+
+  &lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable 
+&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and 
+&lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - 
+&lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, 
+&lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the 
+&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Then 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; to help keep track of 
+&lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present 
+&lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>/publication-backup/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication-backup/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>/publication-backup/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication-backup/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
